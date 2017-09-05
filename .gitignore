@@ -17,3 +17,7 @@ CTestTestfile.cmake
 /playground
 
 deploy_key
+
+fonts/\.DS_Store
+
+fonts/TOP-1/\.DS_Store
